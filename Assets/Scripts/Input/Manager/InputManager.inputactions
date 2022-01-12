@@ -1,0 +1,33 @@
+{
+    "name": "InputManager",
+    "maps": [
+        {
+            "name": "Dot",
+            "id": "54e326b3-d9a6-456e-8e90-3a35ffd4c94e",
+            "actions": [
+                {
+                    "name": "Click",
+                    "type": "Value",
+                    "id": "f6dbd3b2-d82a-47df-a75b-5891b1b4dead",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2285e33c-44af-4565-a3ef-987a70f8cf26",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
